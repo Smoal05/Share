@@ -1,0 +1,47 @@
+###################____Output__________#######
+
+
+
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+OpenGL API 3.3.0 - Build 27.20.100.9616 - Compatibility - Using Device: Intel - Intel(R) UHD Graphics 600
+
+Godot Engine v4.4.1.stable.official.49a5bc7b6 - https://godotengine.org
+OpenGL API 3.3.0 - Build 27.20.100.9616 - Compatibility - Using Device: Intel - Intel(R) UHD Graphics 600
+
+[INF][netfox.noray::Noray] Trying to connect to noray at tomfol.io:8890
+[DBG][netfox.noray::Noray] Resolved noray host to 172.105.69.73
+[INF][netfox.noray::Noray] Trying to connect to noray at tomfol.io:8890
+[DBG][netfox.noray::Noray] Resolved noray host to 172.105.69.73
+[INF][netfox.noray::Noray] Connected to noray at 172.105.69.73:8890
+Connected to Noray server
+[INF][netfox.noray::Noray] Connected to noray at 172.105.69.73:8890
+Connected to Noray server
+[DBG][netfox.noray::Noray] Saved OID: AVwth075TNKC4Oex8dezY
+[DBG][netfox.noray::Noray] Saved OID: t_wEzZcwwuhU1a--CXpDN
+[DBG][netfox.noray::Noray] Bound UDP to port 61826
+[DBG][netfox.noray::Noray] Saved PID: vgm-fOeNNVEbv74Qx6irw97jD1l2SFP1KA9iicqOoV4COZLQqWxQW4NNxuxkBGHlSOc5IOWpa6tunjWsSy7XCL9bgD5oqZQlXWH4YjrgykxXYFVzv1XIZs2T3fV9_L1H
+[DBG][netfox.noray::Noray] Bound UDP to port 61825
+[DBG][netfox.noray::Noray] Saved PID: gS5fhrXtP_BELTH5Cr-nfzf7wT_3-9h2SEBy0bo0yRguyunH6BuSYzAKzAyzBJiuA3oAVwcZmiKfbvTW7TfamVdwmBRl-ssFkiNdk35RUOOX20htQLHF_FPWH856xQkQ
+[INF][netfox.noray::Noray] Registered local port 61825 to remote
+[INF][netfox.noray::Noray] Registered local port 61826 to remote
+Hosting
+[DBG][netfox.noray::Noray] Received connect command to 102.124.150.218:17646
+[DBG][netfox.noray::Noray] Received connect command to 102.124.150.218:17645
+Handshake failed
+NAT failed, using relay
+[DBG][netfox.noray::Noray] Received connect relay command to 172.105.69.73:51193
+[DBG][netfox.noray::Noray] Received connect relay command to 172.105.69.73:51200
+Handshake failed
+
+
+
+
+
+
+
+
+#################____Debugger__________#######
+
+
+
+Invalid access to property or key 'host' on a base object of type 'OfflineMultiplayerPeer'.
